@@ -1,0 +1,29 @@
+<package>
+  <name>homer_robbie_architecture</name>
+  <version>1.0.0</version>
+  <description>
+     robbie_architecture
+  </description>
+  <author>Viktor Seib</author>
+  <maintainer email="vseib@uni-koblenz.de">vseib</maintainer>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/robbie_architecture</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>cmake_modules</build_depend>
+  <build_depend>libopencv-dev</build_depend>
+  <build_depend>opengl</build_depend>
+  <build_depend>boost</build_depend>
+  <build_depend>tinyxml</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>libopencv-dev</run_depend>
+  <run_depend>opengl</run_depend>
+  <run_depend>boost</run_depend>
+  <run_depend>tinyxml</run_depend>
+  <export>
+  </export>
+
+</package>
+
+
