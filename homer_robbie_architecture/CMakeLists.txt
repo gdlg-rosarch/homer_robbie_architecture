@@ -68,7 +68,7 @@ add_library(homerThread
     src/Architecture/Thread/Condition.cpp
 )
 
-install(TARGETS ${PROJECT_NAME}
+install(TARGETS homerImageHelpers homerMath homerString homerConfig homerSingleton homerStateMachine homerThread
     ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
     LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
     RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
