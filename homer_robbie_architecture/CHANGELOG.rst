@@ -2,8 +2,8 @@
 Changelog for package homer_robbie_architecture
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2016-10-30)
+------------------
 * changed install targets
 * Contributors: Niklas Yann Wettengel
 
